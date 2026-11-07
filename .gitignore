@@ -1,0 +1,17 @@
+# Private Client Commercial & Handover Documents
+*.pdf
+*.zip
+*.mp4
+*Handover*
+*PRD*
+
+# Environment & Secrets
+.env
+.env.*
+*.local
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
