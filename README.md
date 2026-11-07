@@ -5,7 +5,8 @@
 <br/>
 
 <p align="center">
-  <a href="#-interactive-platform-showcase"><img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-2D6E55?style=flat-square&labelColor=0D1526&logo=checkmarx&logoColor=57B894" alt="Production Ready" /></a>
+  <a href="https://ayan-rajput-analysis.github.io/kenyon-auto-cosmetics/"><img src="https://img.shields.io/badge/LIVE_DEPLOYMENT-LAUNCH_WEB_APP-8C5A32?style=flat-square&labelColor=0B132B&logo=googlechrome&logoColor=C89B6E" alt="Launch Live Web App" /></a>
+  <a href="#-interactive-platform-showcase"><img src="https://img.shields.io/badge/STATUS-PRODUCTION_LIVE-2D6E55?style=flat-square&labelColor=0D1526&logo=checkmarx&logoColor=57B894" alt="Production Live" /></a>
   <a href="#-system-architecture--data-flow"><img src="https://img.shields.io/badge/DOMAIN-AUTOMOTIVE_SAAS_%26_EXECUTIVE_BI-4A3525?style=flat-square&labelColor=1E1612" alt="Domain" /></a>
   <a href="#-tech-stack--zero-build-deployment"><img src="https://img.shields.io/badge/ARCHITECTURE-ZERO--BUILD_SPA_%2B_APPS_SCRIPT-24476E?style=flat-square&labelColor=0D1526&logo=javascript&logoColor=6E96C4" alt="Architecture" /></a>
   <a href="https://github.com/Ayan-Rajput-Analysis"><img src="https://img.shields.io/badge/ARCHITECT-AYAN_RAJPUT-8C5A32?style=flat-square&labelColor=0B132B&logo=github&logoColor=C89B6E" alt="Architect: Ayan Rajput" /></a>
